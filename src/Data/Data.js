@@ -14,8 +14,6 @@ import { keyboard } from "@testing-library/user-event/dist/keyboard";
 
 // Recent Card Imports
 import profile from "../imgs/profile.png";
-import img2 from "../imgs/img2.png";
-import img3 from "../imgs/img3.png";
 
 // Sidebar Data
 export const SidebarData = [
